@@ -1,5 +1,7 @@
 import './App.css';
+// eslint-disable-next-line no-unsed-vars
 import firebase from './FirebaseConfig';
+
 function App() {
   return (
     <div className="App">
